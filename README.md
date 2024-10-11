@@ -1,5 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=g0sha1337&theme=tokyonight-duo&border_radius=8&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=g0sha1337&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
 
 Learning languages
 
