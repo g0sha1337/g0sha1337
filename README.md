@@ -1,10 +1,3 @@
-<center>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=g0sha1337&theme=cobalt&hide_border=true&border_radius=9&card_width=930&card_height=320" alt="GitHub Streak" />
-  </a>
-</center>
-
-
 ```
 .=========================================================================================================================.
 | ,   *      .              _.._            .                     :                        o                   x    |     |
@@ -33,9 +26,15 @@
 |       ,           *           ,                         #            *        *   |    `.   ((`            |/    /      |
 | *                                     .          *                                \     ).  .))            '    .   *   |
 |            :     o         x                 .          o                    * ----`-'-'  `''.::.________::;"-'' ---    |
-|  *                                                           *    .                       reps are private  :3          |
+|  *                                                           *    .                                                     |
 '========================================================================================================================='
 ```
+
+<center>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=g0sha1337&theme=cobalt&hide_border=true&border_radius=9&card_width=930&card_height=320" alt="GitHub Streak" />
+  </a>
+</center>
 
 Learning langs
 
