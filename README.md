@@ -1,5 +1,9 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0sha1337&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<a href="https://github-readme-stats.vercel.app/api?username=g0sha1337&show_icons=true&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=g0sha1337&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g0sha1337&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 Learning langs
 
